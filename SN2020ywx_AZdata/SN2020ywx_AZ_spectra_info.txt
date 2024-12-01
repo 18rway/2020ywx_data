@@ -1,0 +1,7 @@
+                           filename       MJD                 inst       tele slit ["]        exp      wave
+----------------------------------- --------- -------------------- ---------- -------- ---------- ---------
+      SN2020ywx_BokBC_20210208.fits 59253.417 Bok B&C Spectrograph        Bok      1.5     3600.0 4000-8000
+SN2020ywx_MMTBinospec_03212021.fits 59294.220             Binospec        MMT      1.0     3600.0 5688-7209
+SN2020ywx_MMTBinospec_05072021.fits 59341.133             Binospec        MMT      1.0     1800.0 5688-7209
+      SN2020ywx_BokBC_20220310.fits 59648.297 Bok B&C Spectrograph        Bok      1.5     1800.0 4002-8000
+SN2020ywx_BokBC_20220505_clean.fits 59704.271 Bok B&C Spectrograph        Bok      1.0     8100.0 4870-6020
